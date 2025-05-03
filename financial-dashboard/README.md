@@ -55,9 +55,3 @@ Contributions are welcome! If you would like to contribute to the Financial Dash
 4. Push to the branch (`git push origin feature-branch`).
 5. Open a pull request.
 
-## Contact Information
-
-For any inquiries or feedback, please contact:
-
-- Your Name - your.email@example.com
-- GitHub: [yourusername](https://github.com/yourusername)
