@@ -1,0 +1,6 @@
+streamlit==1.18.1
+yfinance==0.2.18
+plotly==5.10.0
+pandas==1.5.3
+ollama==0.1.0
+streamlit-tags==1.0.0
